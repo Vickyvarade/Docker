@@ -1,3 +1,6 @@
+create database pucsdStudents;
+use pucsdStudnts;
+
 
 
 CREATE TABLE studentData(Roll_no int PRIMARY KEY,Name varchar(30),Address varchar(40),Mobile_Number
